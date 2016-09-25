@@ -1,0 +1,97 @@
+body {
+    background-color: lightblue;
+}
+#body{
+	max-width:1000px;
+	margin:auto;
+	
+}
+
+div{
+	padding:20px 20px;
+	
+}
+h1 {
+    font-size: 2.5em;
+    font-family: fantasy;
+}
+h1 {
+    margin-left: 20px;
+}
+td.conname{
+	border:none;
+	max-width:250px;
+}
+a.conname{
+	color:#5f526d;
+	background:#bbb;
+	
+}
+table.rank-active tr,th,td{
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+}
+table.rank-active th{
+	border-top:1px solid black;
+}
+td.id{
+	width:5px;
+	text-align:center;
+}
+td.name{
+	width:30px;
+}
+td.handle{
+	width:30px;
+	text-align:center;
+}
+td.rating,th.rating{
+	width:10px;
+	border-right:1px solid black;
+	text-align:center;
+}
+img.photo{
+	max-height:50px;
+	max-width:100px;
+	
+}
+a.Expert{
+	color:blue;
+	
+}
+a.Specialist{
+	color:#03a89e;
+	
+}
+a.Pupil{
+	color:#008000;
+	
+}
+a.Newbie{
+	color:grey;
+	
+}
+
+
+
+
+
+#codeforces_contest{
+	border:1px solid black;
+	float:left;
+	
+}
+#sidebar{
+	float:right;
+	
+}
+#codeforces_rank{
+	border:1px solid black;
+	margin-bottom:20px;
+	
+}
+#codeforces_rank_a{
+	border:1px solid black;
+	margin-bottom:20px;
+	
+}
